@@ -1,0 +1,162 @@
+{
+	"act1scene1": {
+		"receptionist": [
+			{ "text": "Since this is a test, you know where to go.", "voice": "rec1.mp3" },
+		],
+		"Alice":[
+			{ "text": "Since this is a test, you know where to go.", "voice": "alice1.mp3" },
+		],
+		"Stacy":[
+			{ "text": "Since this is a test, you know where to go.", "voice": "s1.mp3" },
+		],
+		"Mark":[
+			{ "text": "Since this is a test, you know where to go.", "voice": "m1.mp3" },
+		],
+		"Manager":[
+			{ "text": "Since this is a test, you know where to go.", "voice": "a.mp3" },
+		],
+		"HR": [
+			{ "text": "Good morning and welcome to the team! We're excited to have you with us. Before we start your day, I'll need a few documents from you.", "voice": "hr1.mp3" },
+			
+		],
+	},
+
+	"game1ends": {
+		"HR": [
+			{ "text": "Since this is a test, you know where to go" , "voice": "hr2.mp3" }
+
+		],
+		"receptionist":[
+			{ "text": "I see you met with the HR. Please head to the 2nd floor to meet your coworker and manager", "voice": "recgame1ends.mp3" },
+			
+		],
+		"Alice":[
+			{ "text": "Hi. I'm alice. I'm usually great with email and document writing.", "voice": "a1.mp3" },
+			{ "text": "If you need any help, don't hesitate to reach out", "voice": "a2.mp3" },
+			
+		],
+		"Stacy":[
+			{ "text": "Hi. I'm Stacy. I'm usually the one responsible for SQL.", "voice": "stack4.mp3" },
+			{ "text": "If you need any help, let me know!", "voice": "s3.mp3" },
+		],
+		"Manager":[
+			{ "text": "Welcome to your first day. I'm going to be your manager. I'm looking forward to working with you.Lets start off with the basics.", "voice": "b.mp3" },
+			{ "text": "First please go to Mark. He is the IT head and will provide you with your work email and access to company softwares", "voice": "c.mp3" },
+			{ "text": "He is sitting right across me. Once you are done, we will discuss your next task.", "voice": "d.mp3" },
+
+		],
+		"Mark":[
+			{"text": "...", "voice":"newsound.wav"}
+		],
+		
+	},
+	
+	"act2scene1": {
+		"receptionist":[
+			{ "text": "Since this is a test, you know where to go.", "voice": "rec1.mp3" },
+		],
+		"HR": [
+				{ "text": "Thank you. You may now proceed to meet your coworker and manager — they are on the 2nd floor.", "voice": "hr3.mp3" },
+				{ "text": "Your Manager will guide you through the work expectations, team responsibilities, and help you get started with your initial tasks.", "voice": "h4.mp3" },			
+
+		],
+		"Alice":[
+			{ "text": "Hi. I'm alice. I'm usually great with email and document writing.", "voice": "a1.mp3" },
+			{ "text": "If you need any help, don't hesitate to reach out", "voice": "a2a12.mp3" },
+			
+		],
+		"Stacy":[
+			{ "text": "Hi. I'm Stacy. I'm usually the one responsible for SQL.", "voice": "stack4.mp3" },
+			{ "text": "If you need any help, let me know!", "voice": "s3.mp3" },
+		],
+		"Manager":[
+			{ "text": "Welcome to your first day. I'm going to be your manager. I'm looking forward to working with you.Lets start off with the basics.", "voice": "b.mp3" },
+			{ "text": "First please go to Mark. He is the IT head and will provide you with your work email and access to company softwares", "voice": "c.mp3" },
+			{ "text": "He is sitting right across me. Once you are done, we will discuss your next task.", "voice": "d.mp3" },
+		],
+		"Mark":[
+			{"text": "...", "voice":"newsound.wav"}
+		],
+	},
+	"act3scene1": {
+		"Mark":[
+			{ "text": "You must be the new hire. Here is the access to your work id and softwares.", "voice": "m2.mp3" },
+			
+		],
+		"Stacy":[
+			{ "text": "Hi. I'm Stacy. I'm usually the one responsible for SQL.", "voice": "stack4.mp3" },
+			{ "text": "If you need any help, let me know!", "voice": "s3.mp3" },
+							
+		],
+		"Alice":[
+			{ "text": "Hi. I'm alice. I'm usually great with email and document writing.", "voice": "a1.mp3" },
+			{ "text": "If you need any help, don't hesitate to reach out", "voice": "a2a12.mp3" },
+		],
+		"receptionist":[
+			{ "text": "Since this is a test, you know where to go.", "voice": "rec1.mp3" },
+		],
+		"Manager":[
+			{ "text": "I see you've received your email ID and software access—great job getting set up!", "voice": "e.mp3" },
+			{ "text": "For your next task, head over to your Desktop and open ClickUp. It’s the tool we use to manage tasks and stay organized as a team. ", "voice": "f.mp3" },
+			{ "text": "Once you're in, take a look at your checklist—you’ll find a list of tasks assigned to you. Go through them one by one and start completing what’s listed.", "voice": "g.mp3" },
+			],
+		"HR":[{"text": "...", "voice":"newsound.wav"}]
+	},
+	
+	
+	
+	"clickupstarts": {
+		"Mark":[
+			"..."
+		],
+		"Stacy":[
+			{ "text": "Hi! The manager asked me to give you a hand with learning SQL queries, so I’m here to help. Let’s get it done together", "voice": "stacyclick.mp3" },
+			
+		],
+		"Alice":[
+			{ "text": "Hi! The manager asked me to give you a hand with writing email, so I’m here to help. Let’s get it done together", "voice": "aliceclick.mp3" }
+			
+		],
+		"Manager":[
+			{"text": "...", "voice":"newsound.wav"}
+			],
+		"receptionist":[
+			{ "text": "Since this is a test, you know where to go.", "voice": "rec1.mp3" },
+		],
+		"HR":[
+			{"text": "...", "voice":"newsound.wav"}
+		],
+		
+	},
+	"finalscene": {
+		"Alice":[
+			{ "text": "Hope you had a good first day!", "voice": "alicefinal.mp3" }
+			
+		],
+		"Stacy":[
+			{ "text": "Hope you had a good first day!", "voice": "stacyfinal.mp3" },
+		],
+		"Mark":[
+			{ "text": "Hope you had a good first day", "voice": "mf.mp3" },
+			
+		],
+		"receptionist":[
+			{ "text": "Hope you had a good first day!", "voice": "recfinal.mp3" },
+			
+		],
+		"HR":[
+			{ "text": "Hope you had a good first day!", "voice": "hrf.mp3" },
+		],
+		"Manager":[
+			{ "text": "I see you’ve completed everything,", "voice": "h.mp3" },
+			{ "text": "I hope you’ve learnt a little about how the company works", "voice": "i.mp3" },
+			{ "text": "We look forward to meeting in real life", "voice": "j.mp3" },
+			
+			
+			
+		],
+
+	},
+	
+	
+}
