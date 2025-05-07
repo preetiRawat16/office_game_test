@@ -1,19 +1,19 @@
 {
 	"act1scene1": {
 		"receptionist": [
-			{ "text": "Since this is a test, you know where to go.", "voice": "rec1.mp3" },
+			{ "text": "Talk to me in the main game, I'll be smarter, cooler and clueier.", "voice": "rec1.mp3" },
 		],
 		"Alice":[
-			{ "text": "Since this is a test, you know where to go.", "voice": "alice1.mp3" },
+			{ "text": "My clue database self destructed when it realised this was a test game", "voice": "alice1.mp3" },
 		],
 		"Stacy":[
-			{ "text": "Since this is a test, you know where to go.", "voice": "s1.mp3" },
+			{ "text": "I swore an oath to the game devs: no clues in the test game!", "voice": "s1.mp3" },
 		],
 		"Mark":[
-			{ "text": "Since this is a test, you know where to go.", "voice": "m1.mp3" },
+			{ "text": "Main game me has clues. This me just silently judges your choices", "voice": "m1.mp3" },
 		],
 		"Manager":[
-			{ "text": "Since this is a test, you know where to go.", "voice": "a.mp3" },
+			{ "text": "If you need a hint here, you might wanna lower the difficulty of life.", "voice": "a.mp3" },
 		],
 		"HR": [
 			{ "text": "Good morning and welcome to the team! We're excited to have you with us. Before we start your day, I'll need a few documents from you.", "voice": "hr1.mp3" },
@@ -23,7 +23,7 @@
 
 	"game1ends": {
 		"HR": [
-			{ "text": "Since this is a test, you know where to go" , "voice": "hr2.mp3" }
+			{ "text": "I only give clues to those who read the terms & conditions. You didn’t" , "voice": "hr2.mp3" }
 
 		],
 		"receptionist":[
@@ -40,24 +40,23 @@
 			{ "text": "If you need any help, let me know!", "voice": "s3.mp3" },
 		],
 		"Manager":[
-			{ "text": "Welcome to your first day. I'm going to be your manager. I'm looking forward to working with you.Lets start off with the basics.", "voice": "b.mp3" },
+			{ "text": "Welcome to your first day. I'm going to be your manager. I'm looking forward to working with you. Lets start off with the basics.", "voice": "b.mp3" },
 			{ "text": "First please go to Mark. He is the IT head and will provide you with your work email and access to company softwares", "voice": "c.mp3" },
 			{ "text": "He is sitting right across me. Once you are done, we will discuss your next task.", "voice": "d.mp3" },
 
 		],
 		"Mark":[
-			{"text": "...", "voice":"newsound.wav"}
+			{ "text": "Main game me has clues. This me just silently judges your choices", "voice": "m1.mp3" },
 		],
 		
 	},
 	
 	"act2scene1": {
 		"receptionist":[
-			{ "text": "Since this is a test, you know where to go.", "voice": "rec1.mp3" },
+			{ "text": "Talk to me in the main game, I'll be smarter, cooler and clueier.", "voice": "rec1.mp3" },
 		],
 		"HR": [
-				{ "text": "Thank you. You may now proceed to meet your coworker and manager — they are on the 2nd floor.", "voice": "hr3.mp3" },
-				{ "text": "Your Manager will guide you through the work expectations, team responsibilities, and help you get started with your initial tasks.", "voice": "h4.mp3" },			
+			{ "text": "I only give clues to those who read the terms & conditions. You didn’t" , "voice": "hr2.mp3" }
 
 		],
 		"Alice":[
@@ -70,12 +69,12 @@
 			{ "text": "If you need any help, let me know!", "voice": "s3.mp3" },
 		],
 		"Manager":[
-			{ "text": "Welcome to your first day. I'm going to be your manager. I'm looking forward to working with you.Lets start off with the basics.", "voice": "b.mp3" },
+			{ "text": "Welcome to your first day. I'm going to be your manager. I'm looking forward to working with you. Lets start off with the basics.", "voice": "b.mp3" },
 			{ "text": "First please go to Mark. He is the IT head and will provide you with your work email and access to company softwares", "voice": "c.mp3" },
 			{ "text": "He is sitting right across me. Once you are done, we will discuss your next task.", "voice": "d.mp3" },
 		],
 		"Mark":[
-			{"text": "...", "voice":"newsound.wav"}
+			{ "text": "Main game me has clues. This me just silently judges your choices", "voice": "m1.mp3" },
 		],
 	},
 	"act3scene1": {
@@ -93,21 +92,21 @@
 			{ "text": "If you need any help, don't hesitate to reach out", "voice": "a2a12.mp3" },
 		],
 		"receptionist":[
-			{ "text": "Since this is a test, you know where to go.", "voice": "rec1.mp3" },
+			{ "text": "Talk to me in the main game, I'll be smarter, cooler and clueier.", "voice": "rec1.mp3" },
 		],
 		"Manager":[
 			{ "text": "I see you've received your email ID and software access—great job getting set up!", "voice": "e.mp3" },
 			{ "text": "For your next task, head over to your Desktop and open ClickUp. It’s the tool we use to manage tasks and stay organized as a team. ", "voice": "f.mp3" },
 			{ "text": "Once you're in, take a look at your checklist—you’ll find a list of tasks assigned to you. Go through them one by one and start completing what’s listed.", "voice": "g.mp3" },
 			],
-		"HR":[{"text": "...", "voice":"newsound.wav"}]
+		"HR":[{ "text": "I only give clues to those who read the terms & conditions. You didn’t" , "voice": "hr2.mp3" }]
 	},
 	
 	
 	
 	"clickupstarts": {
 		"Mark":[
-			"..."
+			{ "text": "Main game me has clues. This me just silently judges your choices", "voice": "m1.mp3" }, 
 		],
 		"Stacy":[
 			{ "text": "Hi! The manager asked me to give you a hand with learning SQL queries, so I’m here to help. Let’s get it done together", "voice": "stacyclick.mp3" },
@@ -121,10 +120,10 @@
 			{"text": "...", "voice":"newsound.wav"}
 			],
 		"receptionist":[
-			{ "text": "Since this is a test, you know where to go.", "voice": "rec1.mp3" },
+			{ "text": "Talk to me in the main game, I'll be smarter, cooler and clueier.", "voice": "rec1.mp3" },
 		],
 		"HR":[
-			{"text": "...", "voice":"newsound.wav"}
+			{ "text": "I only give clues to those who read the terms & conditions. You didn’t" , "voice": "hr2.mp3" }
 		],
 		
 	},

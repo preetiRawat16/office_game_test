@@ -19,6 +19,12 @@ config/icon="uid://belvu08e4v0i7"
 
 Global="*res://Global.gd"
 
+[display]
+
+window/size/viewport_height=720
+window/size/mode=3
+window/stretch/mode="canvas_items"
+
 [input]
 
 ui_accept={

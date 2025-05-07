@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c1o2onuhsbro2"
-path="res://.godot/imported/1_Generic_Shadowless_48x48.png-0d07a65cc93cf613faffaa430a2e3f53.ctex"
+uid="uid://blbao8pagt5qc"
+path="res://.godot/imported/animated_coffee_48x48.png-b96e03d9803fd2f105d104bd2b6a0695.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://use/1_Generic_Shadowless_48x48.png"
-dest_files=["res://.godot/imported/1_Generic_Shadowless_48x48.png-0d07a65cc93cf613faffaa430a2e3f53.ctex"]
+source_file="res://use/animated_coffee_48x48.png"
+dest_files=["res://.godot/imported/animated_coffee_48x48.png-b96e03d9803fd2f105d104bd2b6a0695.ctex"]
 
 [params]
 
